@@ -1,5 +1,6 @@
 telepot==12.7
-yt-dlp==2024.3.10
+yt-dlp>=2025.3.21
 python-dotenv==1.0.1
-loguru==0.7.2
-instaloader==4.14.1 
+pytube==15.0.0
+requests==2.32.3
+urllib3>=2.0.0 
